@@ -1,0 +1,1 @@
+/usr/bin/c++ -pthread -g CMakeFiles/AP.dir/anomaly_detection_util.cpp.o CMakeFiles/AP.dir/MainTrain.cpp.o CMakeFiles/AP.dir/SimpleAnomalyDetector.cpp.o CMakeFiles/AP.dir/timeseries.cpp.o CMakeFiles/AP.dir/minCircle.cpp.o CMakeFiles/AP.dir/HybridAnomalyDetector.cpp.o CMakeFiles/AP.dir/CLI.cpp.o CMakeFiles/AP.dir/Server.cpp.o -o AP 
